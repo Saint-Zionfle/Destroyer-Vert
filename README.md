@@ -12,3 +12,13 @@ Go drink, then go get drunk.
 
 # Les Thug'zz peuvent cloner le repo.
 Pour le style...
+
+> sudo apt update
+> sudo apt install git -y
+> sudo apt install evince -y
+> sudo apt fuck
+> j'ai perdu l'apt ... donc je n'ai plus faim =D
+> git clone https://github.com/Saint-Zionfle/Destroyer-Vert/
+> cd Destroyer-vert
+> evince Le_Destroyer_Vert.pdf
+> # Maintenant on distribue les cartes et on se sert un vert
