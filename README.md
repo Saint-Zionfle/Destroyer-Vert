@@ -1,3 +1,6 @@
+# RTFM
+Ci-dessous, le FUCKING MANUAL.
+
 # Destroyer-Vert
 Go drink, then go get drunk.
 
